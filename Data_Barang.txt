@@ -1,0 +1,5 @@
+01,Tresseme,Shampoo,15000,10
+02,Lifebuoy Sabun,Sabun,8000,20
+03,Sunsilk Black,Shampoo,17000,15
+04,Rinso,Sabun,9000,12
+05,Rexona,Deodorant,12000,5
